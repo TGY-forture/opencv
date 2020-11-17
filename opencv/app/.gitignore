@@ -1,0 +1,8 @@
+/build
+/src/test
+/proguard-rules.pro
+/src/main/jniLibs
+/src/main/res/drawable*
+/src/main/res/mip*
+/src/main/res/values
+build.gradle
